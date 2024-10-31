@@ -14,6 +14,9 @@
 		C4904AE22CD1531900AC29AD /* registerPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4904AE12CD1531900AC29AD /* registerPage.swift */; };
 		C4904AE42CD1533C00AC29AD /* together.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4904AE32CD1533C00AC29AD /* together.swift */; };
 		C4904AE62CD2A05200AC29AD /* homePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4904AE52CD2A05200AC29AD /* homePage.swift */; };
+		C4904AE82CD3F51D00AC29AD /* teste1.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4904AE72CD3F51D00AC29AD /* teste1.swift */; };
+		C4904AEA2CD3F5AB00AC29AD /* teste2.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4904AE92CD3F5AB00AC29AD /* teste2.swift */; };
+		C4904AEC2CD405B000AC29AD /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4904AEB2CD405B000AC29AD /* ContentView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +28,9 @@
 		C4904AE12CD1531900AC29AD /* registerPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = registerPage.swift; sourceTree = "<group>"; };
 		C4904AE32CD1533C00AC29AD /* together.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = together.swift; sourceTree = "<group>"; };
 		C4904AE52CD2A05200AC29AD /* homePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = homePage.swift; sourceTree = "<group>"; };
+		C4904AE72CD3F51D00AC29AD /* teste1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = teste1.swift; sourceTree = "<group>"; };
+		C4904AE92CD3F5AB00AC29AD /* teste2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = teste2.swift; sourceTree = "<group>"; };
+		C4904AEB2CD405B000AC29AD /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +47,9 @@
 		C4904AC42CD150C600AC29AD = {
 			isa = PBXGroup;
 			children = (
+				C4904AEB2CD405B000AC29AD /* ContentView.swift */,
+				C4904AE92CD3F5AB00AC29AD /* teste2.swift */,
+				C4904AE72CD3F51D00AC29AD /* teste1.swift */,
 				C4904ACF2CD150C600AC29AD /* IFOCUS */,
 				C4904ACE2CD150C600AC29AD /* Products */,
 			);
@@ -155,6 +164,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				C4904AE62CD2A05200AC29AD /* homePage.swift in Sources */,
+				C4904AE82CD3F51D00AC29AD /* teste1.swift in Sources */,
+				C4904AEC2CD405B000AC29AD /* ContentView.swift in Sources */,
+				C4904AEA2CD3F5AB00AC29AD /* teste2.swift in Sources */,
 				C4904AE22CD1531900AC29AD /* registerPage.swift in Sources */,
 				C4904AE02CD152E900AC29AD /* loginPage.swift in Sources */,
 				C4904AD12CD150C600AC29AD /* IFOCUSApp.swift in Sources */,

@@ -52,7 +52,7 @@ struct loginPage: View {
                                     .cornerRadius(10)
                             } .padding()
                             
-                            NavigationLink(destination: homePage()) {
+                            NavigationLink(destination: ContentView()) {
                                 Text("Entrar")
                                     .font(.custom("montserrat", size: 25))
                                     .foregroundColor(.white)
